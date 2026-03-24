@@ -10,5 +10,6 @@ I built this project to deepen my understanding of PCB design, keyboard matrix l
 <img width="1091" height="414" alt="PLATE (2)" src="https://github.com/user-attachments/assets/04ba3c0f-8afa-4500-8037-0fc367471d4f" />
 <img width="830" height="592" alt="DRC (2)" src="https://github.com/user-attachments/assets/3480ee5c-d339-40fb-ba04-3e8fd56a11ab" />
 <img width="825" height="487" alt="ERC" src="https://github.com/user-attachments/assets/9c9ebcfc-9d18-483f-8471-5b3be7e5bc55" />
-<img width="1436" height="703" alt="3D PCB VIEW" src="https://github.com/user-attachments/assets/c0a0789e-6ab5-41f0-b1b<img width="1227" height="553" alt="ASSEMBLY (2)" src="https://github.com/user-attachments/assets/6ee19945-eeb8-4545-85f6-40b5f2979f89" />
-8-946f92d4c3c8" />
+
+<img width="1436" height="703" alt="3D PCB VIEW" src="https://github.com/user-attachments/assets/d381ee28-ded0-41b3-8ced-b83dd15d2036" />
+<img width="1227" height="553" alt="ASSEMBLY (2)" src="https://github.com/user-attachments/assets/9e0c5ec0-409b-443e-aed1-e667fe7f2950" />
