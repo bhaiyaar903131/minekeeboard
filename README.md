@@ -17,6 +17,7 @@ I built this project to deepen my understanding of PCB design, keyboard matrix l
 <img width="1436" height="703" alt="3D PCB VIEW" src="https://github.com/user-attachments/assets/d381ee28-ded0-41b3-8ced-b83dd15d2036" />
 <img width="1227" height="553" alt="ASSEMBLY (2)" src="https://github.com/user-attachments/assets/9e0c5ec0-409b-443e-aed1-e667fe7f2950" />
 <img width="1551" height="490" alt="image" src="https://github.com/user-attachments/assets/53625e6e-a11f-4a9c-80d3-1183060619f3" />
+<img width="1912" height="471" alt="Image" src="https://github.com/user-attachments/assets/4363ce97-cb4b-4ec6-93de-24791236ab70" />
 ##  Bill of Materials (BOM)
 
 | Name | Description | Quantity | Price (USD) | Link | Vendor |
