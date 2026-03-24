@@ -8,7 +8,10 @@ I built this project to deepen my understanding of PCB design, keyboard matrix l
 <img width="1151" height="787" alt="SCHEMATIC (3)" src="https://github.com/user-attachments/assets/c6d1b14d-0bdb-40b7-ac28-1dbd1f3e08cf" />
 <img width="1244" height="379" alt="TOP (3)" src="https://github.com/user-attachments/assets/b9c333a1-f8f1-437e-9158-e776409f3646" />
 <img width="1091" height="414" alt="PLATE (2)" src="https://github.com/user-attachments/assets/04ba3c0f-8afa-4500-8037-0fc367471d4f" />
+<img width="1202" height="513" alt="BOTTOM (3)" src="https://github.com/user-attachments/assets/1a2ae25b-29cc-4731-a01c-dccac673a1e4" />
+
 <img width="830" height="592" alt="DRC (2)" src="https://github.com/user-attachments/assets/3480ee5c-d339-40fb-ba04-3e8fd56a11ab" />
+
 <img width="825" height="487" alt="ERC" src="https://github.com/user-attachments/assets/9c9ebcfc-9d18-483f-8471-5b3be7e5bc55" />
 
 <img width="1436" height="703" alt="3D PCB VIEW" src="https://github.com/user-attachments/assets/d381ee28-ded0-41b3-8ced-b83dd15d2036" />
